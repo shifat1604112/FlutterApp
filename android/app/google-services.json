@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74815428821",
+    "project_id": "flutterchat-eedb4",
+    "storage_bucket": "flutterchat-eedb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74815428821:android:881ae5c52067a945012a5c",
+        "android_client_info": {
+          "package_name": "com.shifat.multi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74815428821-h5j1326069tnccbf3c2jf92uvg02mgln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWIuI_a5kKTF3pP6UYupicPQfb4iHJWho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74815428821-h5j1326069tnccbf3c2jf92uvg02mgln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
